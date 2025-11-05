@@ -63,8 +63,8 @@ Expected columns:
 - **NA values:** Allowed and automatically handled during analysis
 
 Example:
-Bmal1.tsv
-Per2.tsv
+Bmal1.tsv; 
+Per2.tsv; 
 Nr1d1.tsv
 
 ---
