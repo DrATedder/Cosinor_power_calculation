@@ -193,8 +193,8 @@ Transcriptome-level simulations summarize expected discovery power after multipl
 
 ## References
 
-Nelson W., Tong Y.L., Lee J.K., Halberg F. (1979). Methods for cosinor-rhythmometry. Chronobiologia, 6(4), 305–323.
-Refinetti R., Cornélissen G., Halberg F. (2007). Procedures for numerical analysis of circadian rhythms. Biological Rhythm Research, 38(4), 275–325.
+* Nelson W., Tong Y.L., Lee J.K., Halberg F. (1979). Methods for cosinor-rhythmometry. Chronobiologia, 6(4), 305–323.
+* Refinetti R., Cornélissen G., Halberg F. (2007). Procedures for numerical analysis of circadian rhythms. Biological Rhythm Research, 38(4), 275–325.
 
 ---
 
